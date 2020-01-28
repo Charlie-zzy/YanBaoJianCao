@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## 眼保健操！
 
-You can use the [editor on GitHub](https://github.com/Charlie-zzy/YanBaoJianCao/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Part 0
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+轻闭双眼，身体坐正
 
-### Markdown
+暂无工程，求语调教大神or自己录的神犇
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Part 1
 
-```markdown
-Syntax highlighted code block
+奉上[惨不忍睹的成品](https://charlie-zzy.github.io/YanBaoJianCao/part1/1.mixed.mp3)和[乱七八糟的工程](https://charlie-zzy.github.io/YanBaoJianCao/part1/1.music.flp)，然后还有[纯音乐版](https://charlie-zzy.github.io/YanBaoJianCao/part1/1.mixed.mp3)
 
-# Header 1
-## Header 2
-### Header 3
+### Part 2
 
-- Bulleted
-- List
+再次奉上[真的惨不忍睹的成品](https://charlie-zzy.github.io/YanBaoJianCao/part2/2.mixed.mp3)和[更加乱七八糟的工程](https://charlie-zzy.github.io/YanBaoJianCao/part2/2.music.flp)，然后还有连主乐器都没找到合适的[纯音乐版](https://charlie-zzy.github.io/YanBaoJianCao/part2/2.mixed.mp3)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Charlie-zzy/YanBaoJianCao/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+P.S.:还有用AutOgun重新整的[土味电音版](part2/2.remix.music.flp)**大雾弥漫**
