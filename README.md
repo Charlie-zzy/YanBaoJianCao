@@ -8,7 +8,7 @@
 
 ### Part 1
 
-奉上[惨不忍睹的成品](https://charlie-zzy.github.io/YanBaoJianCao/part1/1.mixed.mp3)和[乱七八糟的工程](https://charlie-zzy.github.io/YanBaoJianCao/part1/1.music.flp)，然后还有[纯音乐版](https://charlie-zzy.github.io/YanBaoJianCao/part1/1.mixed.mp3)
+奉上[惨不忍睹的成品](https://charlie-zzy.github.io/YanBaoJianCao/part1/1.mixed.mp3)和[乱七八糟的工程](https://charlie-zzy.github.io/YanBaoJianCao/part1/1.music.flp)，然后还有[纯音乐版](https://charlie-zzy.github.io/YanBaoJianCao/part1/1.music.mp3)
 
 ### Part 2
 
